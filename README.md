@@ -20,7 +20,7 @@ A passionate and results-driven **Unity Game Developer**. I specialize in creati
 - [Connecct](https://github.com/gautam3080/Connecct): Connect three or more adjacent matching objects to make them explode, strategizing for bigger combos and higher scores!
 - [Grid Slicer](https://github.com/gautam3080/Grid_Slicer): Shoot bullets to slice through colored tiles—disconnected pieces fall and vanish!
 ## 📣 Let's Connect
-- 🌐 [Portfolio/Website] https://gautamchaudhary.carrd.co/
+- 🌐 [Portfolio/Website] https://github.com/gautam3080/gautam3080.github.io
 - 💬 [LinkedIn] https://www.linkedin.com/in/gautam-chaudhary-g3080/
 - 📧 [Email] gautamc3080@gmail.com
 
